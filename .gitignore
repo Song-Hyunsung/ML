@@ -1,5 +1,6 @@
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # Ignore temporary Python files
 __pycache__/
@@ -26,3 +27,9 @@ env/
 
 # Ignore Jupyter Notebook metadata
 *.ipynb~  
+
+# Ignore any folder named dataset or runs, at any depth
+dataset/
+**/dataset/
+runs/
+**/runs/
