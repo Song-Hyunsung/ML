@@ -13,3 +13,7 @@
 - Wasserstein GAN Implementation with clipping and gradient penalty
 - CelebA dataset
 - Strict re-creation of the [WGAN paper](https://arxiv.org/abs/1701.07875) and [WGAN GP paper](https://arxiv.org/abs/1704.00028)
+
+## Conditional WGAN with GP
+- Wasserstein GAN Implementation with gradient penalty introducing labels and embedding layer
+- MNIST dataset
