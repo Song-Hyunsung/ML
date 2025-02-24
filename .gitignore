@@ -33,3 +33,5 @@ dataset/
 **/dataset/
 runs/
 **/runs/
+evaluation/
+**/evaluation/
