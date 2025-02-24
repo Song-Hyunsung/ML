@@ -17,3 +17,8 @@
 ## Conditional WGAN with GP
 - Wasserstein GAN Implementation with gradient penalty introducing labels and embedding layer
 - MNIST dataset
+
+## Pix2Pix
+- Pix2Pix Implementation based on the paper
+- Satellite dataset [Download Link](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset)
+- Strict re-creation of the [Pix2Pix paper](https://arxiv.org/abs/1611.07004)
