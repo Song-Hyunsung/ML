@@ -19,6 +19,7 @@ env/
 *.xlsx
 *.db
 *.sqlite
+*.pptx
 
 # Ignore outputs and logs
 *.log

@@ -22,3 +22,8 @@
 - Pix2Pix Implementation based on the paper
 - Satellite dataset [Download Link](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset)
 - Strict re-creation of the [Pix2Pix paper](https://arxiv.org/abs/1611.07004)
+
+## Pix2Pix Retinal Baseline
+- Pix2Pix Implementation based on the paper to be used as Baseline model for RoP research
+- Purpose is to generate Nasal and Temporal Retinal FoV images from Center Retinal FoV image
+- Dataset is private, patients' Retinal FOV (Center, Nasal, Temporal) images
