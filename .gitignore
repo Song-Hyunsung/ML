@@ -1,3 +1,6 @@
+./auto-encoder/
+auto-encoder/
+
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
@@ -20,6 +23,7 @@ env/
 *.db
 *.sqlite
 *.pptx
+*.pth
 
 # Ignore outputs and logs
 *.log
@@ -36,3 +40,7 @@ runs/
 **/runs/
 evaluation/
 **/evaluation/
+data/
+**/data/
+output/
+**/output/

@@ -1,0 +1,7 @@
+test_save_dir = './output/test'
+ckpt_dir = './output'
+image_data_dir = './data/Nasal/training'
+cache_dir = './DONTUSECACHE'
+center_data_dir = './data/Center/training'
+val_center_data_dir = './data/Center/val'
+val_image_data_dir = './data/Nasal/val'
